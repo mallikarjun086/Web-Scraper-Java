@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# External libraries
+*.jar
+
+# Output files
+*.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# Build folders
+out/
+target/
